@@ -1,0 +1,25 @@
+.kir {
+    width: 200px;
+    height: 250px;
+    position: fixed;
+    left: 200px ;
+    top: 410px;
+    transition-property: top;
+    transition-duration: 4s;
+
+    
+}
+
+
+.kir:hover {
+    position: relative;
+    top: 30px;
+}
+
+.position1 {
+    width: 400px ;
+    height: 400px;
+    position: fixed;
+    left: 50px;
+    top: 10px;
+}
